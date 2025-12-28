@@ -24,7 +24,7 @@ body {
   font-family: "Red Hat Text", sans-serif;
   font-weight: 700;
   color: white;
-    background-image: url('/public/images/desktop.svg');
+    background-image: url('/images/desktop.svg');
   background-repeat: no-repeat;
   background-position:center;
   background-size: cover;
