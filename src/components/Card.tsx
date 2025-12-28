@@ -18,7 +18,7 @@ const StyledCard = styled.div`
 `;
 
 const CardChild = styled.span`
-  background-color: var(--col-gray-1);
+  background-color: var(--col-primary);
   display: block;
   width: 100%;
   height: 50%;
