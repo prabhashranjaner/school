@@ -44,7 +44,7 @@ function App() {
     <AppContainer>
       <Header>We're launching soon</Header>
       <CountdownWrapper>
-        <CountdownTimer targetDate="Jan 23, 2026 11:59:00" />
+        <CountdownTimer targetDate="mar 31, 2026 11:59:00" />
       </CountdownWrapper>
 
       <Footer />
